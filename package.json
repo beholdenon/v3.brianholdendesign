@@ -1,0 +1,23 @@
+{
+  "name": "v3.brianholdendesign",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "server": "node ./bin/www",
+    "install": "cd client && npm install",
+    "build": "cd client && npm build",
+    "start": "concurrently \"node ./bin/www\" \"cd client && npm start\""
+  },
+  "dependencies": {
+    "concurrent": "^0.3.2",
+    "concurrently": "^6.4.0",
+    "contentful": "^9.1.5",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "express-validator": "^6.13.0",
+    "morgan": "~1.9.1",
+    "nodemailer": "^6.7.2"
+  }
+}
