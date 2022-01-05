@@ -30,6 +30,16 @@ function App() {
 
     // add class to body and trigger show css animation
     $("body").addClass("overlay-active");
+
+    // show all images and videos
+    $(".overlay .overlay-outer").eq(id).find('.overlay-item-inner video').each(function() {
+      $(this).html('<source src="' + $(this).data('src') + '" type="video/mp4"></source>');
+      $(this)[0].load();
+    });
+
+    $(".overlay .overlay-outer").eq(id).find('.overlay-item-inner img').each(function() {
+      $(this).attr('src', $(this).data('src'));
+    });
   };
 
   const closeOverlay = () => {
@@ -106,7 +116,9 @@ function App() {
       } 
 
       function initAnimation() {
-        AOS.init();
+        AOS.init({
+          mirror: true
+        });
       }
 
       initVariableType();

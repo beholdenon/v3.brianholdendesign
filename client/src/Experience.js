@@ -8,7 +8,7 @@ function Experience(props) {
 
   const listItem = (item, index) => {
    var hideClass;
-   index < 3 ? hideClass = 'hide-for-small' : hideClass = '';
+   index > 3 ? hideClass = 'hide-for-small' : hideClass = '';
 
    return (
       <li className={hideClass} data-aos="fade-up" data-aos-duration="400" data-aos-delay={index * 100} key={index}>

@@ -7,8 +7,7 @@ function OverlayItem(props) {
       return (
         <a href={props.link}>
           <div className="overlay-item-inner" key={index}>
-            <video muted autoPlay loop playsInline>
-              <source src={'https:' + mediaItem.fields.file.url} type="video/mp4" />
+            <video muted autoPlay loop playsInline src={'https:' + mediaItem.fields.file.url}>
             </video>
           </div>
         </a>
@@ -17,8 +16,7 @@ function OverlayItem(props) {
     else {
       return (
         <div className="overlay-item-inner" key={index}>
-          <video muted autoPlay loop playsInline>
-            <source src={'https:' + mediaItem.fields.file.url} type="video/mp4" />
+          <video muted autoPlay loop playsInline src={'https:' + mediaItem.fields.file.url}>
           </video>
         </div>
       )
@@ -30,7 +28,7 @@ function OverlayItem(props) {
       return (
         <a href={props.link}>
           <div className="overlay-item-inner" key={index}>
-            <img src={'https:' + mediaItem.fields.file.url} alt={props.title} />
+            <img data-src={'https:' + mediaItem.fields.file.url} alt={props.title} />
           </div>
         </a>
       )
@@ -38,7 +36,7 @@ function OverlayItem(props) {
     else {
       return (
         <div className="overlay-item-inner" key={index}>
-          <img src={'https:' + mediaItem.fields.file.url} alt={props.title} />
+          <img data-src={'https:' + mediaItem.fields.file.url} alt={props.title} />
         </div>
       )
     }
