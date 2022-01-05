@@ -1,0 +1,24 @@
+@import './Settings.scss';
+
+.main-btn {
+  @include avenir(bold);
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+  background-color: $accent-color;
+  color: $third-color;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  letter-spacing: 1px;
+  margin: 10px auto;
+  display: inline-block;
+  font-size: 0.9em;
+
+  &:focus {
+    color: #fff;
+  }
+
+  &:hover {
+    color: #fff;
+  }
+}

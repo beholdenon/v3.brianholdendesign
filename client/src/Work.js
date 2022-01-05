@@ -1,5 +1,6 @@
 import React from 'react';
 import SectionHeader from './SectionHeader';
+import './Work.scss';
 
 function Work(props) {
 

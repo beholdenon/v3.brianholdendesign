@@ -1,6 +1,7 @@
 import React from 'react';
 import OverlayItem from './OverlayItem';
 import Button from './Button';
+import './Overlay.scss';
 
 function Overlay(props) {
 

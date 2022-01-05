@@ -1,5 +1,6 @@
 import React from 'react';
 import SectionHeader from './SectionHeader';
+import './Skills.scss';
 
 function Skills(props) {
   return (

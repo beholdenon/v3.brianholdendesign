@@ -1,4 +1,5 @@
 import React from 'react';
+import './Heading.scss';
 
 function SectionHeader(props) {
   return (

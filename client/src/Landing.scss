@@ -1,0 +1,28 @@
+@import './Settings.scss';
+
+.landing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  position: sticky;
+  text-align: center;
+  top: 0;
+
+  p {
+    font-size: 1em;
+    text-align: center;
+    width: 75vw;
+    max-width: 900px;
+    margin: 1em auto;
+
+    @media (min-width: 768px) {
+      font-size: 1.2em;
+    }
+
+    @media (min-width: 992px) {
+      font-size: 1.5em;
+    }
+  }
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import SectionHeader from './SectionHeader';
 import ContactForm from './ContactForm';
+import './Contact.scss';
 
 function Contact(props) {
   const clearPlaceholder = (id) => {

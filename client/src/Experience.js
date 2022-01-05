@@ -2,6 +2,7 @@
 import React from 'react';
 import Button from './Button';
 import SectionHeader from './SectionHeader';
+import './Experience.scss';
 
 function Experience(props) {
 

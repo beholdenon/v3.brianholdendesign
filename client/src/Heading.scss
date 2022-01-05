@@ -1,0 +1,38 @@
+@import './Settings.scss';
+
+.heading {
+  position: relative;
+  text-align: center;
+  padding: 6px 0 10px 0;
+  max-width: 400px;
+  margin: 0 auto;
+  width: 80%;
+
+  @media (min-width: 768px) {
+    width: 70%;
+    padding: 6px 0 20px 0;
+  }
+
+  &:before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 0;
+    height: 1px;
+    width: 50px;
+    border-bottom: 3px solid $primary-color;
+    transform: translateX(-50%);
+  }
+
+  h2 {
+    color: $accent-color;
+    text-transform: uppercase;
+    line-height: 0;
+    letter-spacing: 2px;
+    font-size: 1.3em;
+
+    @media (min-width: 992px) {
+      font-size: 1.5em;
+    }
+  }
+}
