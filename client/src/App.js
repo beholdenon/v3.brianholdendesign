@@ -35,6 +35,7 @@ function App() {
     $(".overlay .overlay-outer").eq(id).find('.overlay-item-inner video').each(function() {
       $(this).html('<source src="' + $(this).data('src') + '" type="video/mp4"></source>');
       $(this)[0].load();
+      $(this)[0].play();
     });
 
     $(".overlay .overlay-outer").eq(id).find('.overlay-item-inner img').each(function() {
