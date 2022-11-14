@@ -1,0 +1,17 @@
+@import url(1.css);
+@font-face{
+font-family:"ITC Avant Garde Gothic W05 Dem";
+src:url("../fonts/b11b58ea-be99-46e9-82ae-fd254478eb99.woff2") format("woff2"),url("../fonts/b11b58ea-be99-46e9-82ae-fd254478eb99.woff") format("woff");
+}
+@font-face{
+font-family:"ITC Avant Garde Gothic W05 Bol";
+src:url("../fonts/7797e0e1-c4f1-4be5-81a1-adc9cff4949a.woff2") format("woff2"),url("../fonts/7797e0e1-c4f1-4be5-81a1-adc9cff4949a.woff") format("woff");
+}
+@font-face{
+font-family:"ITC Avant Garde Gothic W05 Boo";
+src:url("../fonts/96d222bf-d6f1-4d83-8826-2f9a4debc494.woff2") format("woff2"),url("../fonts/96d222bf-d6f1-4d83-8826-2f9a4debc494.woff") format("woff");
+}
+@font-face{
+font-family:"ITC Avant Garde Gothic W05 Md";
+src:url("../fonts/2fd23c36-f77f-4f9f-928f-6238497fd37d.woff2") format("woff2"),url("../fonts/2fd23c36-f77f-4f9f-928f-6238497fd37d.woff") format("woff");
+}

@@ -1,0 +1,2854 @@
+[
+  {
+    "product": {
+      "id": 4090936,
+      "identifier": {
+        "productUrl": "/shop/product/viking-3-ply-stainless-steel-roaster-with-rack-2-piece-carving-set-carving-board?ID=4090936&CategoryID=3865",
+        "productId": 4090936
+      },
+      "detail": {
+        "name": "3-Ply Stainless Steel Roaster with Rack, 2-Piece Carving Set & Carving Board",
+        "brand": "Viking",
+        "brandURL": "/buy/viking",
+        "flags": {
+          "registrable": true,
+          "intlSuppressProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {
+          "aggregate": {
+            "rating": 4.95,
+            "count": 20
+          }
+        },
+        "bulletText": [
+          "Set includes: roasting pan, cooking rack, 2-piece carving set, cutting board",
+          "Roasting pan: unique, ergonomic, inverted handles to fit in the oven with ease; can fit up to a 25 lb. turkey; 3-ply stainless steel clad design for even heat distribution",
+          "Cooking rack: v-shaped; PFOA and PFOE free; eternal non-stick; helps cook food quicker and more evenly",
+          "Juice Well cutting board: naturally resistant to water, humidity and bacteria; large dual-sided cutting surface; built-in juice groove prevents messy spills",
+          "Dimensions: roasting pan 16.63&quot;L x 13.75&quot;W x 5.15&quot;H; cooking rack 14.2&quot;L x 11.38&quot;W x 3.2&quot;H; cutting board 8&quot;L x 12&quot;W x 0.75&quot;H",
+          "Manufacturer's limited lifetime warranty",
+          "Stainless steel, aluminum alloy, 18/10 stainless steel, acacia wood",
+          "Dishwasher safe; cutting board: hand wash",
+          "Imported"
+        ],
+        "maxQuantity": 6,
+        "typeName": "COOKWARE",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 840595101726,
+            "identifier": {
+              "upcId": "5874162"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11859895_fpx.jpg",
+                  "name": "11859895.fpx"
+                },
+                {
+                  "filePath": "6/optimized/11624646_fpx.tif",
+                  "name": "11624646.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11859895_fpx.jpg",
+                "name": "11859895.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 3,
+              "message": "In Stock: Usually leaves our facility within 3 business days.",
+              "orderType": "STR1"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 2030355,
+                  "name": "No Color",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "11859895_fpx.jpg",
+                        "name": "11859895.fpx"
+                      },
+                      {
+                        "filePath": "6/optimized/11624646_fpx.tif",
+                        "name": "11624646.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "11859895_fpx.jpg",
+                      "name": "11859895.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "onSale": true,
+                  "saleEnds": "Sale ends 12/15/21",
+                  "applicableToAllUpcs": true
+                },
+                "policy": {
+                  "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                  "url": "https://www.customerservice-bloomingdales.com/app/answers/detail/a_id/366/kw/pricing%20policy"
+                },
+                "tieredPrice": [
+                  {
+                    "label": "Reg. [PRICE]",
+                    "values": [
+                      {
+                        "value": 400,
+                        "formattedValue": "$400.00",
+                        "type": "regular"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Sale [PRICE]",
+                    "values": [
+                      {
+                        "value": 199.99,
+                        "formattedValue": "$199.99",
+                        "type": "discount",
+                        "percentOff": [
+                          50
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 3
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "11859895_fpx.jpg",
+            "name": "11859895.fpx"
+          },
+          {
+            "filePath": "6/optimized/11624646_fpx.tif",
+            "name": "11624646.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "11859895_fpx.jpg",
+          "name": "11859895.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 2030355,
+            "name": "No Color",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11859895_fpx.jpg",
+                  "name": "11859895.fpx"
+                },
+                {
+                  "filePath": "6/optimized/11624646_fpx.tif",
+                  "name": "11624646.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11859895_fpx.jpg",
+                "name": "11859895.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "onSale": true,
+            "saleEnds": "Sale ends 12/15/21",
+            "applicableToAllUpcs": true
+          },
+          "policy": {
+            "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+            "url": "https://www.customerservice-bloomingdales.com/app/answers/detail/a_id/366/kw/pricing%20policy"
+          },
+          "tieredPrice": [
+            {
+              "label": "Reg. [PRICE]",
+              "values": [
+                {
+                  "value": 400,
+                  "formattedValue": "$400.00",
+                  "type": "regular"
+                }
+              ]
+            },
+            {
+              "label": "Sale [PRICE]",
+              "values": [
+                {
+                  "value": 199.99,
+                  "formattedValue": "$199.99",
+                  "type": "discount",
+                  "percentOff": [
+                    50
+                  ]
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 3
+        },
+        "badges": [
+          {
+            "checkoutDescription": "Friends & Family! Take 20% off select Home Items labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG\"",
+            "description": "FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG",
+            "promoId": "30817",
+            "header": "OTHERS",
+            "legalDisclaimer": "Take 20% off select Home Items labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG\". All other items are excluded from the offer. Offer valid online and in store, December 4th, 2021- December 15th, 2021. Discount will automatically be applied in bag on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. Offer only valid in United States stores. Offer not valid in Bloomingdale's Outlets.",
+            "applicableToAllUpcs": true,
+            "offer": "OTHERS",
+            "colorClassName": "offerDesc",
+            "promotionType": "Percent Off Order",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "4090936",
+            "productName": "Viking 3-Ply Stainless Steel Roaster with Rack, 2-Piece Carving Set & Carving Board",
+            "productOriginalPrice": "400.0",
+            "productPrice": "199.99",
+            "productPricingState": "",
+            "productRating": "4.95",
+            "productReviews": "20",
+            "productType": "single item"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 4057758,
+      "identifier": {
+        "productUrl": "/shop/product/le-creuset-5-piece-utensil-set?ID=4057758&CategoryID=3865",
+        "productId": 4057758
+      },
+      "detail": {
+        "name": "5-Piece Utensil Set",
+        "brand": "Le Creuset",
+        "brandURL": "/buy/le-creuset",
+        "flags": {
+          "registrable": true,
+          "intlSuppressProduct": true,
+          "hasColors": true,
+          "hasColorSwatches": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {
+          "aggregate": {
+            "rating": 5,
+            "count": 5
+          }
+        },
+        "bulletText": [
+          "Set includes: 11.125” x 1.75” small spatula, 11.375” x 2.25” medium spatula, 11.375” x 2.125” spatula spoon, 10.5” x 2.125” basting brush and 4.6” x 4.6” x 6.2” stoneware utensil crock",
+          "5-year limited warranty ",
+          "Silicone/wood",
+          "Hand wash handle, dishwasher safe heads/crock",
+          "Imported"
+        ],
+        "maxQuantity": 6,
+        "typeName": "KITCHEN_GADGETS_&_TOOLS",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 630870207072,
+            "identifier": {
+              "upcId": "3996754"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "9874863_fpx.jpg",
+                  "name": "9874863.fpx"
+                },
+                {
+                  "filePath": "8/optimized/11876628_fpx.tif",
+                  "name": "11876628.fpx",
+                  "showJumboSwatch": true
+                }
+              ],
+              "primaryImage": {
+                "filePath": "9874863_fpx.jpg",
+                "name": "9874863.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 3,
+              "message": "In Stock: Usually leaves our facility within 3 business days.",
+              "orderType": "STR1"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1997552,
+                  "name": "White",
+                  "normalName": "White",
+                  "swatchImage": {
+                    "filePath": "6/optimized/9875936_fpx.tif",
+                    "name": "9875936.fpx"
+                  },
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "9874863_fpx.jpg",
+                        "name": "9874863.fpx"
+                      },
+                      {
+                        "filePath": "8/optimized/11876628_fpx.tif",
+                        "name": "11876628.fpx",
+                        "showJumboSwatch": true
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "9874863_fpx.jpg",
+                      "name": "9874863.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "onSale": true,
+                  "saleEnds": "Sale ends 12/15/21",
+                  "applicableToAllUpcs": true
+                },
+                "policy": {
+                  "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                  "url": "https://www.customerservice-bloomingdales.com/app/answers/detail/a_id/366/kw/pricing%20policy"
+                },
+                "tieredPrice": [
+                  {
+                    "label": "Reg. [PRICE]",
+                    "values": [
+                      {
+                        "value": 75,
+                        "formattedValue": "$75.00",
+                        "type": "regular"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Sale [PRICE]",
+                    "values": [
+                      {
+                        "value": 60,
+                        "formattedValue": "$60.00",
+                        "type": "discount",
+                        "percentOff": [
+                          20
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 3
+              }
+            }
+          },
+          {
+            "id": 630870206990,
+            "identifier": {
+              "upcId": "3996758"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "8/optimized/9874868_fpx.tif",
+                  "name": "9874868.fpx"
+                },
+                {
+                  "filePath": "8/optimized/11876628_fpx.tif",
+                  "name": "11876628.fpx",
+                  "showJumboSwatch": true
+                }
+              ],
+              "primaryImage": {
+                "filePath": "8/optimized/9874868_fpx.tif",
+                "name": "9874868.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 7,
+              "message": "In Stock: Direct from vendor: Usually leaves the facility within 7 business days.",
+              "orderType": "DROP"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1997554,
+                  "name": "Cerise",
+                  "normalName": "Red",
+                  "swatchImage": {
+                    "filePath": "0/optimized/9875940_fpx.tif",
+                    "name": "9875940.fpx"
+                  },
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "8/optimized/9874868_fpx.tif",
+                        "name": "9874868.fpx"
+                      },
+                      {
+                        "filePath": "8/optimized/11876628_fpx.tif",
+                        "name": "11876628.fpx",
+                        "showJumboSwatch": true
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "8/optimized/9874868_fpx.tif",
+                      "name": "9874868.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "onSale": true,
+                  "saleEnds": "Sale ends 12/15/21",
+                  "applicableToAllUpcs": true
+                },
+                "policy": {
+                  "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                  "url": "https://www.customerservice-bloomingdales.com/app/answers/detail/a_id/366/kw/pricing%20policy"
+                },
+                "tieredPrice": [
+                  {
+                    "label": "Reg. [PRICE]",
+                    "values": [
+                      {
+                        "value": 75,
+                        "formattedValue": "$75.00",
+                        "type": "regular"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Sale [PRICE]",
+                    "values": [
+                      {
+                        "value": 60,
+                        "formattedValue": "$60.00",
+                        "type": "discount",
+                        "percentOff": [
+                          20
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 3
+              }
+            }
+          },
+          {
+            "id": 630870207065,
+            "identifier": {
+              "upcId": "3996760"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "0/optimized/9874870_fpx.tif",
+                  "name": "9874870.fpx"
+                },
+                {
+                  "filePath": "8/optimized/11876628_fpx.tif",
+                  "name": "11876628.fpx",
+                  "showJumboSwatch": true
+                }
+              ],
+              "primaryImage": {
+                "filePath": "0/optimized/9874870_fpx.tif",
+                "name": "9874870.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 7,
+              "message": "In Stock: Direct from vendor: Usually leaves the facility within 7 business days.",
+              "orderType": "DROP"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1997555,
+                  "name": "Gray",
+                  "normalName": "Gray",
+                  "swatchImage": {
+                    "filePath": "2/optimized/9875942_fpx.tif",
+                    "name": "9875942.fpx"
+                  },
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "0/optimized/9874870_fpx.tif",
+                        "name": "9874870.fpx"
+                      },
+                      {
+                        "filePath": "8/optimized/11876628_fpx.tif",
+                        "name": "11876628.fpx",
+                        "showJumboSwatch": true
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "0/optimized/9874870_fpx.tif",
+                      "name": "9874870.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "onSale": true,
+                  "saleEnds": "Sale ends 12/15/21",
+                  "applicableToAllUpcs": true
+                },
+                "policy": {
+                  "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+                  "url": "https://www.customerservice-bloomingdales.com/app/answers/detail/a_id/366/kw/pricing%20policy"
+                },
+                "tieredPrice": [
+                  {
+                    "label": "Reg. [PRICE]",
+                    "values": [
+                      {
+                        "value": 75,
+                        "formattedValue": "$75.00",
+                        "type": "regular"
+                      }
+                    ]
+                  },
+                  {
+                    "label": "Sale [PRICE]",
+                    "values": [
+                      {
+                        "value": 60,
+                        "formattedValue": "$60.00",
+                        "type": "discount",
+                        "percentOff": [
+                          20
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 3
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "9874863_fpx.jpg",
+            "name": "9874863.fpx"
+          },
+          {
+            "filePath": "8/optimized/11876628_fpx.tif",
+            "name": "11876628.fpx",
+            "showJumboSwatch": true
+          }
+        ],
+        "primaryImage": {
+          "filePath": "9874863_fpx.jpg",
+          "name": "9874863.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 1997552,
+            "name": "White",
+            "normalName": "White",
+            "swatchImage": {
+              "filePath": "6/optimized/9875936_fpx.tif",
+              "name": "9875936.fpx"
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "9874863_fpx.jpg",
+                  "name": "9874863.fpx"
+                },
+                {
+                  "filePath": "8/optimized/11876628_fpx.tif",
+                  "name": "11876628.fpx",
+                  "showJumboSwatch": true
+                }
+              ],
+              "primaryImage": {
+                "filePath": "9874863_fpx.jpg",
+                "name": "9874863.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          },
+          "colorMap": [
+            {
+              "id": 1997552,
+              "name": "White",
+              "normalName": "White",
+              "swatchImage": {
+                "filePath": "6/optimized/9875936_fpx.tif",
+                "name": "9875936.fpx"
+              },
+              "imagery": {
+                "additionalImageSource": [
+                  {
+                    "filePath": "9874863_fpx.jpg",
+                    "name": "9874863.fpx"
+                  },
+                  {
+                    "filePath": "8/optimized/11876628_fpx.tif",
+                    "name": "11876628.fpx",
+                    "showJumboSwatch": true
+                  }
+                ],
+                "primaryImage": {
+                  "filePath": "9874863_fpx.jpg",
+                  "name": "9874863.fpx"
+                },
+                "urlTemplate": "./images/[IMAGEFILEPATH]"
+              }
+            },
+            {
+              "id": 1997554,
+              "name": "Cerise",
+              "normalName": "Red",
+              "swatchImage": {
+                "filePath": "0/optimized/9875940_fpx.tif",
+                "name": "9875940.fpx"
+              },
+              "imagery": {
+                "additionalImageSource": [
+                  {
+                    "filePath": "8/optimized/9874868_fpx.tif",
+                    "name": "9874868.fpx"
+                  },
+                  {
+                    "filePath": "4/optimized/9874864_fpx.tif",
+                    "name": "9874864.fpx",
+                    "showJumboSwatch": true
+                  },
+                  {
+                    "filePath": "8/optimized/11876628_fpx.tif",
+                    "name": "11876628.fpx",
+                    "showJumboSwatch": true
+                  }
+                ],
+                "primaryImage": {
+                  "filePath": "8/optimized/9874868_fpx.tif",
+                  "name": "9874868.fpx"
+                },
+                "urlTemplate": "./images/[IMAGEFILEPATH]"
+              }
+            },
+            {
+              "id": 1997555,
+              "name": "Gray",
+              "normalName": "Gray",
+              "swatchImage": {
+                "filePath": "2/optimized/9875942_fpx.tif",
+                "name": "9875942.fpx"
+              },
+              "imagery": {
+                "additionalImageSource": [
+                  {
+                    "filePath": "0/optimized/9874870_fpx.tif",
+                    "name": "9874870.fpx"
+                  },
+                  {
+                    "filePath": "4/optimized/9874864_fpx.tif",
+                    "name": "9874864.fpx",
+                    "showJumboSwatch": true
+                  },
+                  {
+                    "filePath": "8/optimized/11876628_fpx.tif",
+                    "name": "11876628.fpx",
+                    "showJumboSwatch": true
+                  }
+                ],
+                "primaryImage": {
+                  "filePath": "0/optimized/9874870_fpx.tif",
+                  "name": "9874870.fpx"
+                },
+                "urlTemplate": "./images/[IMAGEFILEPATH]"
+              }
+            }
+          ]
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "onSale": true,
+            "saleEnds": "Sale ends 12/15/21",
+            "applicableToAllUpcs": true
+          },
+          "policy": {
+            "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days.",
+            "url": "https://www.customerservice-bloomingdales.com/app/answers/detail/a_id/366/kw/pricing%20policy"
+          },
+          "tieredPrice": [
+            {
+              "label": "Reg. [PRICE]",
+              "values": [
+                {
+                  "value": 75,
+                  "formattedValue": "$75.00",
+                  "type": "regular"
+                }
+              ]
+            },
+            {
+              "label": "Sale [PRICE]",
+              "values": [
+                {
+                  "value": 60,
+                  "formattedValue": "$60.00",
+                  "type": "discount",
+                  "percentOff": [
+                    20
+                  ]
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 3
+        },
+        "badges": [
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "4057758",
+            "productName": "Le Creuset 5-Piece Utensil Set",
+            "productOriginalPrice": "75.0",
+            "productPrice": "60.0",
+            "productPricingState": "",
+            "productRating": "5.0",
+            "productReviews": "5",
+            "productType": "single item"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 3805049,
+      "identifier": {
+        "productUrl": "/shop/product/meater-plus-wireless-smart-meat-thermometer?ID=3805049&CategoryID=3865",
+        "productId": 3805049
+      },
+      "detail": {
+        "name": "Plus Wireless Smart Meat Thermometer",
+        "brand": "Meater",
+        "brandURL": "/buy/meater",
+        "flags": {
+          "registrable": true,
+          "intlSuppressProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {},
+        "bulletText": [
+          "Takes the guesswork out of cooking and ensures perfect, consistent results",
+          "Uses Bluetooth technology to communicate with the phone/tablet and send alerts to the MEATER app, available on iOS and Android devices",
+          "Dimensions: 6.71&quot; x 1.89&quot; x 1.18&quot;",
+          "Probe: stainless steel, ceramic; charger: bamboo",
+          "Dishwasher safe",
+          "Imported"
+        ],
+        "maxQuantity": 6,
+        "typeName": "KITCHEN_GADGETS_&_TOOLS",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 5060480240384,
+            "identifier": {
+              "upcId": "5369214"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11078582_fpx.jpg",
+                  "name": "11078582.fpx"
+                },
+                {
+                  "filePath": "1/optimized/11078581_fpx.tif",
+                  "name": "11078581.fpx"
+                },
+                {
+                  "filePath": "3/optimized/11078573_fpx.tif",
+                  "name": "11078573.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11078582_fpx.jpg",
+                "name": "11078582.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 3,
+              "message": "In Stock: Usually leaves our facility within 3 business days.",
+              "orderType": "STR1"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1831994,
+                  "name": "No Color",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "11078582_fpx.jpg",
+                        "name": "11078582.fpx"
+                      },
+                      {
+                        "filePath": "1/optimized/11078581_fpx.tif",
+                        "name": "11078581.fpx"
+                      },
+                      {
+                        "filePath": "3/optimized/11078573_fpx.tif",
+                        "name": "11078573.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "11078582_fpx.jpg",
+                      "name": "11078582.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 99,
+                        "formattedValue": "$99.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 0
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "11078582_fpx.jpg",
+            "name": "11078582.fpx"
+          },
+          {
+            "filePath": "1/optimized/11078581_fpx.tif",
+            "name": "11078581.fpx"
+          },
+          {
+            "filePath": "3/optimized/11078573_fpx.tif",
+            "name": "11078573.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "11078582_fpx.jpg",
+          "name": "11078582.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 1831994,
+            "name": "No Color",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11078582_fpx.jpg",
+                  "name": "11078582.fpx"
+                },
+                {
+                  "filePath": "1/optimized/11078581_fpx.tif",
+                  "name": "11078581.fpx"
+                },
+                {
+                  "filePath": "3/optimized/11078573_fpx.tif",
+                  "name": "11078573.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11078582_fpx.jpg",
+                "name": "11078582.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 99,
+                  "formattedValue": "$99.00",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 0
+        },
+        "badges": [
+          {
+            "checkoutDescription": "Friends & Family! Take 20% off select Home Items labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG\"",
+            "description": "FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG",
+            "promoId": "30817",
+            "header": "OTHERS",
+            "legalDisclaimer": "Take 20% off select Home Items labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG\". All other items are excluded from the offer. Offer valid online and in store, December 4th, 2021- December 15th, 2021. Discount will automatically be applied in bag on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. Offer only valid in United States stores. Offer not valid in Bloomingdale's Outlets.",
+            "applicableToAllUpcs": true,
+            "offer": "OTHERS",
+            "colorClassName": "offerDesc",
+            "promotionType": "Percent Off Order",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "3805049",
+            "productName": "Meater Plus Wireless Smart Meat Thermometer",
+            "productOriginalPrice": "99.0",
+            "productPrice": "99.0",
+            "productPricingState": "",
+            "productRating": "",
+            "productReviews": "",
+            "productType": "single item"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 4145762,
+      "identifier": {
+        "productUrl": "/shop/product/allen-brothers-black-spanish-turkey?ID=4145762&CategoryID=3865",
+        "productId": 4145762
+      },
+      "detail": {
+        "name": "Black Spanish Turkey ",
+        "brand": "Allen Brothers",
+        "brandURL": "/buy/allen-brothers",
+        "description": "Heritage Black is a distinguished breed, one of the first domesticated turkeys to be developed from Native American stock, believed to be the same breed served at the first Thanksgiving feast. Sourced from a small family farm in North Carolina where they have continuous outdoor access and protection from harmful elements.  Unstuffed and ready to cook.",
+        "flags": {
+          "masterProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {},
+        "bulletText": [
+          "Food and beverage items are not eligible for return or exchange.",
+          "Items sold separately.",
+          "Made in USA"
+        ],
+        "maxQuantity": 12,
+        "typeName": "FOOD",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        }
+      },
+      "imagery": {
+        "primaryImage": {
+          "filePath": "5/optimized/11680875_fpx.tif",
+          "name": "11680875.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true
+      },
+      "traits": {
+        "colors": {
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "4145762",
+            "productName": "Allen Brothers Black Spanish Turkey",
+            "productOriginalPrice": "",
+            "productPrice": "",
+            "productPricingState": "",
+            "productRating": "",
+            "productReviews": "",
+            "productType": "master"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 3821706,
+      "identifier": {
+        "productUrl": "/shop/product/spicewalla-signature-blends-set-of-18?ID=3821706&CategoryID=3865",
+        "productId": 3821706
+      },
+      "detail": {
+        "name": "Signature Blends, Set of 18",
+        "brand": "SpiceWalla",
+        "brandURL": "/buy/spicewalla",
+        "flags": {
+          "registrable": true,
+          "intlSuppressProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {
+          "aggregate": {
+            "rating": 5,
+            "count": 1
+          }
+        },
+        "bulletText": [
+          "A collection of delicious gourmet blends that take your spice collection beyond the basics",
+          "Includes cowboy steak rub, garlic herb rub, Cajun seasoning, Tuscan seasoning, cracked coriander pepper rub, berbere, chaat masala, tandoori masala, green za'atar, ras el hanout, harissa, Chinese five spice, herbs de provence, ",
+          "honey herb rub, Modena balsamic rub, mustard tarragon seasoning, lemon pepper seasoning, everything bagel seasoning",
+          "Contains celery, mustard, sesame and trace amounts of wheat",
+          "Dimensions: 11.75&quot;W x 9.75&quot;L x 2&quot;H",
+          "Total product weight: 3.2 lbs.",
+          "Food and beverage items are not eligible for return or exchange.",
+          "Made in USA"
+        ],
+        "maxQuantity": 12,
+        "typeName": "FOOD",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 810022761687,
+            "identifier": {
+              "upcId": "5397437"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11101580_fpx.jpg",
+                  "name": "11101580.fpx"
+                },
+                {
+                  "filePath": "1/optimized/11101581_fpx.tif",
+                  "name": "11101581.fpx"
+                },
+                {
+                  "filePath": "2/optimized/11101582_fpx.tif",
+                  "name": "11101582.fpx"
+                },
+                {
+                  "filePath": "0/optimized/11101660_fpx.tif",
+                  "name": "11101660.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11101580_fpx.jpg",
+                "name": "11101580.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 3,
+              "message": "In Stock: Direct from vendor: Usually leaves the facility within 3 business days.",
+              "orderType": "DROP"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1840984,
+                  "name": "No Color",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "11101580_fpx.jpg",
+                        "name": "11101580.fpx"
+                      },
+                      {
+                        "filePath": "1/optimized/11101581_fpx.tif",
+                        "name": "11101581.fpx"
+                      },
+                      {
+                        "filePath": "2/optimized/11101582_fpx.tif",
+                        "name": "11101582.fpx"
+                      },
+                      {
+                        "filePath": "0/optimized/11101660_fpx.tif",
+                        "name": "11101660.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "11101580_fpx.jpg",
+                      "name": "11101580.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 109.99,
+                        "formattedValue": "$109.99",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 11
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "11101580_fpx.jpg",
+            "name": "11101580.fpx"
+          },
+          {
+            "filePath": "1/optimized/11101581_fpx.tif",
+            "name": "11101581.fpx"
+          },
+          {
+            "filePath": "2/optimized/11101582_fpx.tif",
+            "name": "11101582.fpx"
+          },
+          {
+            "filePath": "0/optimized/11101660_fpx.tif",
+            "name": "11101660.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "11101580_fpx.jpg",
+          "name": "11101580.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 1840984,
+            "name": "No Color",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11101580_fpx.jpg",
+                  "name": "11101580.fpx"
+                },
+                {
+                  "filePath": "1/optimized/11101581_fpx.tif",
+                  "name": "11101581.fpx"
+                },
+                {
+                  "filePath": "2/optimized/11101582_fpx.tif",
+                  "name": "11101582.fpx"
+                },
+                {
+                  "filePath": "0/optimized/11101660_fpx.tif",
+                  "name": "11101660.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11101580_fpx.jpg",
+                "name": "11101580.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 109.99,
+                  "formattedValue": "$109.99",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 11
+        },
+        "badges": [
+          {
+            "checkoutDescription": "Take 25% off items labeled \"FRIENDS & FAMILY: 25% OFF DISCOUNT APPLIED IN BAG.\"",
+            "description": "FRIENDS & FAMILY: 25% OFF DISCOUNT APPLIED IN BAG",
+            "promoId": "30756",
+            "header": "OTHERS",
+            "legalDisclaimer": "Take 25% off items labeled \"FRIENDS & FAMILY: 25% OFF DISCOUNT APPLIED IN BAG.\" Take 20% off Designer Fine Jewelry, Small Electrics and Gadgets labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG.\" Take 20% off Cookware labeled \"FRIENDS & FAMILY: 20% OFF WITH CODE FRIENDS.\" All other items are excluded from the offer. Discount will automatically be applied in bag on qualified items. Offer valid online and in store December 4-15, 2021. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. Offer valid in U.S. stores only. Offer not valid in Bloomingdale's Outlets.",
+            "applicableToAllUpcs": true,
+            "offer": "OTHERS",
+            "colorClassName": "offerDesc",
+            "promotionType": "Percent Off Order",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "3821706",
+            "productName": "SpiceWalla Signature Blends, Set of 18",
+            "productOriginalPrice": "109.99",
+            "productPrice": "109.99",
+            "productPricingState": "",
+            "productRating": "5.0",
+            "productReviews": "1",
+            "productType": "single item"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 2819546,
+      "identifier": {
+        "productUrl": "/shop/product/baccarat-vega-flutissimo-champagne-flute-set-of-2?ID=2819546&CategoryID=3865",
+        "productId": 2819546,
+        "masterProductId": 24779
+      },
+      "detail": {
+        "name": "Vega Flutissimo Champagne Flute, Set of 2",
+        "brand": "Baccarat",
+        "brandURL": "/buy/baccarat",
+        "flags": {
+          "registrable": true,
+          "memberProduct": true,
+          "hasColors": true,
+          "hasColorSwatches": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {
+          "aggregate": {
+            "rating": 5,
+            "count": 2
+          }
+        },
+        "bulletText": [
+          "6.1 oz. capacity",
+          "11.4&quot;H",
+          "Designed for Baccarat by Savinel & Roze",
+          "Lead crystal",
+          "Hand wash",
+          "Made in France"
+        ],
+        "maxQuantity": 12,
+        "typeName": "DRINKWARE",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 736415962823,
+            "identifier": {
+              "upcId": "3788043"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "4/optimized/9725964_fpx.tif",
+                  "name": "9725964.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "4/optimized/9725964_fpx.tif",
+                "name": "9725964.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 5,
+              "message": "In Stock: Direct from vendor: Usually leaves the facility within 5 business days.",
+              "orderType": "DROP"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1250029,
+                  "name": "Amber",
+                  "normalName": "Orange",
+                  "swatchImage": {
+                    "filePath": "3/optimized/9725993_fpx.tif",
+                    "name": "9725993.fpx"
+                  },
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "4/optimized/9725964_fpx.tif",
+                        "name": "9725964.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "4/optimized/9725964_fpx.tif",
+                      "name": "9725964.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 570,
+                        "formattedValue": "$570.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 11
+              }
+            }
+          },
+          {
+            "id": 736415962830,
+            "identifier": {
+              "upcId": "3788044"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "9725965_fpx.jpg",
+                  "name": "9725965.fpx"
+                },
+                {
+                  "filePath": "4/optimized/11416074_fpx.tif",
+                  "name": "11416074.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "9725965_fpx.jpg",
+                "name": "9725965.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 24,
+              "message": "In Stock: On order: Expected to leave our facility within 24 business days.",
+              "orderType": "ORDR"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 1250028,
+                  "name": "Blue",
+                  "normalName": "Blue",
+                  "swatchImage": {
+                    "filePath": "4/optimized/9725994_fpx.tif",
+                    "name": "9725994.fpx"
+                  },
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "9725965_fpx.jpg",
+                        "name": "9725965.fpx"
+                      },
+                      {
+                        "filePath": "4/optimized/11416074_fpx.tif",
+                        "name": "11416074.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "9725965_fpx.jpg",
+                      "name": "9725965.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 570,
+                        "formattedValue": "$570.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 11
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "9725965_fpx.jpg",
+            "name": "9725965.fpx"
+          },
+          {
+            "filePath": "4/optimized/11416074_fpx.tif",
+            "name": "11416074.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "9725965_fpx.jpg",
+          "name": "9725965.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 1250028,
+            "name": "Blue",
+            "normalName": "Blue",
+            "swatchImage": {
+              "filePath": "4/optimized/9725994_fpx.tif",
+              "name": "9725994.fpx"
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "9725965_fpx.jpg",
+                  "name": "9725965.fpx"
+                },
+                {
+                  "filePath": "4/optimized/11416074_fpx.tif",
+                  "name": "11416074.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "9725965_fpx.jpg",
+                "name": "9725965.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          },
+          "colorMap": [
+            {
+              "id": 1250028,
+              "name": "Blue",
+              "normalName": "Blue",
+              "swatchImage": {
+                "filePath": "4/optimized/9725994_fpx.tif",
+                "name": "9725994.fpx"
+              },
+              "imagery": {
+                "additionalImageSource": [
+                  {
+                    "filePath": "9725965_fpx.jpg",
+                    "name": "9725965.fpx"
+                  },
+                  {
+                    "filePath": "4/optimized/11416074_fpx.tif",
+                    "name": "11416074.fpx"
+                  }
+                ],
+                "primaryImage": {
+                  "filePath": "9725965_fpx.jpg",
+                  "name": "9725965.fpx"
+                },
+                "urlTemplate": "./images/[IMAGEFILEPATH]"
+              }
+            },
+            {
+              "id": 1250029,
+              "name": "Amber",
+              "normalName": "Orange",
+              "swatchImage": {
+                "filePath": "3/optimized/9725993_fpx.tif",
+                "name": "9725993.fpx"
+              },
+              "imagery": {
+                "additionalImageSource": [
+                  {
+                    "filePath": "4/optimized/9725964_fpx.tif",
+                    "name": "9725964.fpx"
+                  }
+                ],
+                "primaryImage": {
+                  "filePath": "4/optimized/9725964_fpx.tif",
+                  "name": "9725964.fpx"
+                },
+                "urlTemplate": "./images/[IMAGEFILEPATH]"
+              }
+            }
+          ]
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 570,
+                  "formattedValue": "$570.00",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 11
+        },
+        "badges": [
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "description": "LOYALLIST TRIPLE POINTS",
+            "promoId": "30758",
+            "header": "Loyalty Offer Multiplier",
+            "legalDisclaimer": "Loyallists receive Triple Points on select items excluded from the Friends & Family discount and Power Point offers. Offer valid on items labeled \"LOYALLIST TRIPLE POINTS.\" All other items are excluded from the offer. Offer valid online and in store December 4-15, 2021. Certain designer, brand and leased department exclusions apply. Points are not earned in Nespresso shops, at restaurants in Bloomingdale's, on store services, sales tax, select Bloomingdale's charitable program fees, purchases of third party products sold in billing inserts, and purchases shipped outside the U.S. or its territories, or when redeeming Bloomingdale's Gift Cards and Rewards. On January 1 of each year, 85% of unused points will be forfeited. If multiple point offers are available based on your purchase, you will only receive points for the best offer. Offer valid in U.S. stores only. Offer not valid in Bloomingdale's Outlets. See bloomingdales.com/loyallist/termsandconditions for complete program details.",
+            "applicableToAllUpcs": true,
+            "offer": "Loyalty Offer Multiplier",
+            "offerName": "GET TRIPLE POINTS ON THIS ITEM",
+            "colorClassName": "loyaltyBadge",
+            "promotionType": "Loyalty Offer Multiplier",
+            "eligibleTier": "ALL",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "2819546",
+            "productName": "Baccarat Vega Flutissimo Champagne Flute, Set of 2",
+            "productOriginalPrice": "570.0",
+            "productPrice": "570.0",
+            "productPricingState": "",
+            "productRating": "5.0",
+            "productReviews": "2",
+            "productType": "member"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 4115564,
+      "identifier": {
+        "productUrl": "/shop/product/coravin-sparkling-wine-preservation-system?ID=4115564&CategoryID=3865",
+        "productId": 4115564
+      },
+      "detail": {
+        "name": "Sparkling Wine Preservation System",
+        "brand": "Coravin",
+        "brandURL": "/buy/coravin",
+        "description": "Preserve the crisp flavor and effervescence of your favorite sparkling wines for up to four weeks with the Coravin Sparkling Wine Preservation System. The universal Sparkling Stopper locks securely on virtually any bottle, while the Sparkling Charger delivers pure CO2 that blankets the remaining sparkling wine, ensuring the bottle remains fresh for the next pour. When you are ready for that next glass of bubbly, simply remove the Stopper to pour. Now there's no reason to wait for a special occasion to enjoy a glass of champagne, prosecco, cava or any other sparkling wine.",
+        "flags": {
+          "registrable": true,
+          "intlSuppressProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {},
+        "bulletText": [
+          "Dimensions: 2.88&quot;L x 3.25&quot;W x 10&quot;H",
+          "System made in China; capsules made in Austria",
+          "Offical Preservation Partner of Mo&euml;t Hennessy Champagnes",
+          "Manufacturer's 1-year limited warranty",
+          "This item is part of <a href=&quot;https://bit.ly/3br6Jyd &quot;>Happy Together Again</a>, our latest pop-up dedicated to the fine art of entertaining, curated by Giada De Laurentiis, Italian chef, restaurateur, TV personality, and founder of Giadzy.",
+          "System & stoppers: injection molded plastic/stainless steel/elastomers; capsules: injection molded plastic/steel/elastomers",
+          "Hand wash"
+        ],
+        "maxQuantity": 6,
+        "typeName": "BAR_&_WINE_ACCESSORI",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 850014752255,
+            "identifier": {
+              "upcId": "5981708"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11726928_fpx.jpg",
+                  "name": "11726928.fpx"
+                },
+                {
+                  "filePath": "9/optimized/11726929_fpx.tif",
+                  "name": "11726929.fpx"
+                },
+                {
+                  "filePath": "0/optimized/11726930_fpx.tif",
+                  "name": "11726930.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11726928_fpx.jpg",
+                "name": "11726928.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 2,
+              "message": "In Stock: Usually leaves our facility within 2 business days.",
+              "orderType": "POOL"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 2064720,
+                  "name": "Silver",
+                  "normalName": "Silver",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "11726928_fpx.jpg",
+                        "name": "11726928.fpx"
+                      },
+                      {
+                        "filePath": "9/optimized/11726929_fpx.tif",
+                        "name": "11726929.fpx"
+                      },
+                      {
+                        "filePath": "0/optimized/11726930_fpx.tif",
+                        "name": "11726930.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "11726928_fpx.jpg",
+                      "name": "11726928.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 399,
+                        "formattedValue": "$399.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 0
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "11726928_fpx.jpg",
+            "name": "11726928.fpx"
+          },
+          {
+            "filePath": "9/optimized/11726929_fpx.tif",
+            "name": "11726929.fpx"
+          },
+          {
+            "filePath": "0/optimized/11726930_fpx.tif",
+            "name": "11726930.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "11726928_fpx.jpg",
+          "name": "11726928.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 2064720,
+            "name": "Silver",
+            "normalName": "Silver",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11726928_fpx.jpg",
+                  "name": "11726928.fpx"
+                },
+                {
+                  "filePath": "9/optimized/11726929_fpx.tif",
+                  "name": "11726929.fpx"
+                },
+                {
+                  "filePath": "0/optimized/11726930_fpx.tif",
+                  "name": "11726930.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11726928_fpx.jpg",
+                "name": "11726928.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 399,
+                  "formattedValue": "$399.00",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 0
+        },
+        "badges": [
+          {
+            "checkoutDescription": "Friends & Family! Take 20% off select Home Items labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG\"",
+            "description": "FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG",
+            "promoId": "30817",
+            "header": "OTHERS",
+            "legalDisclaimer": "Take 20% off select Home Items labeled \"FRIENDS & FAMILY: 20% OFF DISCOUNT APPLIED IN BAG\". All other items are excluded from the offer. Offer valid online and in store, December 4th, 2021- December 15th, 2021. Discount will automatically be applied in bag on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. Offer only valid in United States stores. Offer not valid in Bloomingdale's Outlets.",
+            "applicableToAllUpcs": true,
+            "offer": "OTHERS",
+            "colorClassName": "offerDesc",
+            "promotionType": "Percent Off Order",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "4115564",
+            "productName": "Coravin Sparkling Wine Preservation System",
+            "productOriginalPrice": "399.0",
+            "productPrice": "399.0",
+            "productPricingState": "",
+            "productRating": "",
+            "productReviews": "",
+            "productType": "single item"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 475456,
+      "identifier": {
+        "productUrl": "/shop/product/juliska-jardins-du-monde-whitewash-turkey-platter?ID=475456&CategoryID=3865",
+        "productId": 475456,
+        "masterProductId": 233405
+      },
+      "detail": {
+        "name": "Jardins du Monde Whitewash Turkey Platter",
+        "brand": "Juliska",
+        "brandURL": "/buy/juliska",
+        "flags": {
+          "registrable": true,
+          "memberProduct": true,
+          "isStoreOnlyProductOnline": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {},
+        "bulletText": [
+          "Intricate floral-inspired design",
+          "Scalloped edges",
+          "Dimensions: 25&quot;L x 17&quot;W ",
+          "Stoneware",
+          "Dishwasher, microwave safe, freezer-to-oven safe (up to 500&deg;F)",
+          "Made in Portugal"
+        ],
+        "maxQuantity": 12,
+        "typeName": "DINNERWARE"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 879742001220,
+            "identifier": {
+              "upcId": "700083"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "10147227_fpx.jpg",
+                  "name": "10147227.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "10147227_fpx.jpg",
+                "name": "10147227.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 4,
+              "message": "In Stock: Direct from vendor: Usually leaves the facility within 4 business days.",
+              "orderType": "DROP"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 102668,
+                  "name": "No Color",
+                  "normalName": "White",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "10147227_fpx.jpg",
+                        "name": "10147227.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "10147227_fpx.jpg",
+                      "name": "10147227.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 298,
+                        "formattedValue": "$298.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 0
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "10147227_fpx.jpg",
+            "name": "10147227.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "10147227_fpx.jpg",
+          "name": "10147227.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 102668,
+            "name": "No Color",
+            "normalName": "White",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "10147227_fpx.jpg",
+                  "name": "10147227.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "10147227_fpx.jpg",
+                "name": "10147227.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 298,
+                  "formattedValue": "$298.00",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 0
+        },
+        "badges": [
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "description": "LOYALLIST TRIPLE POINTS",
+            "promoId": "30758",
+            "header": "Loyalty Offer Multiplier",
+            "legalDisclaimer": "Loyallists receive Triple Points on select items excluded from the Friends & Family discount and Power Point offers. Offer valid on items labeled \"LOYALLIST TRIPLE POINTS.\" All other items are excluded from the offer. Offer valid online and in store December 4-15, 2021. Certain designer, brand and leased department exclusions apply. Points are not earned in Nespresso shops, at restaurants in Bloomingdale's, on store services, sales tax, select Bloomingdale's charitable program fees, purchases of third party products sold in billing inserts, and purchases shipped outside the U.S. or its territories, or when redeeming Bloomingdale's Gift Cards and Rewards. On January 1 of each year, 85% of unused points will be forfeited. If multiple point offers are available based on your purchase, you will only receive points for the best offer. Offer valid in U.S. stores only. Offer not valid in Bloomingdale's Outlets. See bloomingdales.com/loyallist/termsandconditions for complete program details.",
+            "applicableToAllUpcs": true,
+            "offer": "Loyalty Offer Multiplier",
+            "offerName": "GET TRIPLE POINTS ON THIS ITEM",
+            "colorClassName": "loyaltyBadge",
+            "promotionType": "Loyalty Offer Multiplier",
+            "eligibleTier": "ALL",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "475456",
+            "productName": "Juliska Jardins du Monde Whitewash Turkey Platter",
+            "productOriginalPrice": "298.0",
+            "productPrice": "298.0",
+            "productPricingState": "",
+            "productRating": "",
+            "productReviews": "",
+            "productType": "member"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 4006315,
+      "identifier": {
+        "productUrl": "/shop/product/juliska-stewart-tartan-oven-mitt-pot-holder-set?ID=4006315&CategoryID=3865",
+        "productId": 4006315,
+        "masterProductId": 3781763
+      },
+      "detail": {
+        "name": "Stewart Tartan Oven Mitt & Pot Holder Set",
+        "brand": "Juliska",
+        "brandURL": "/buy/juliska",
+        "flags": {
+          "registrable": true,
+          "memberProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {},
+        "bulletText": [
+          "Set includes: one oven mitt and one pot holder",
+          "Signature Stewart Tartan plaid pattern",
+          "Dimensions: oven mitt 11&quot;L x 7.5&quot;W; potholder 9&quot;L x 9&quot;W",
+          "100% cotton",
+          "Machine wash",
+          "Made in India"
+        ],
+        "maxQuantity": 6,
+        "typeName": "ORNAMENT",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 810034836274,
+            "identifier": {
+              "upcId": "5899554"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11648943_fpx.jpg",
+                  "name": "11648943.fpx"
+                },
+                {
+                  "filePath": "5/optimized/11648945_fpx.tif",
+                  "name": "11648945.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11648943_fpx.jpg",
+                "name": "11648943.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 2,
+              "message": "In Stock: Usually leaves our facility within 2 business days.",
+              "orderType": "POOL"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 2038382,
+                  "name": "Multi",
+                  "normalName": "Multi",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "11648943_fpx.jpg",
+                        "name": "11648943.fpx"
+                      },
+                      {
+                        "filePath": "5/optimized/11648945_fpx.tif",
+                        "name": "11648945.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "11648943_fpx.jpg",
+                      "name": "11648943.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 35,
+                        "formattedValue": "$35.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 0
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "11648943_fpx.jpg",
+            "name": "11648943.fpx"
+          },
+          {
+            "filePath": "5/optimized/11648945_fpx.tif",
+            "name": "11648945.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "11648943_fpx.jpg",
+          "name": "11648943.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 2038382,
+            "name": "Multi",
+            "normalName": "Multi",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "11648943_fpx.jpg",
+                  "name": "11648943.fpx"
+                },
+                {
+                  "filePath": "5/optimized/11648945_fpx.tif",
+                  "name": "11648945.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "11648943_fpx.jpg",
+                "name": "11648943.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 35,
+                  "formattedValue": "$35.00",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 0
+        },
+        "badges": [
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          },
+          {
+            "description": "LOYALLIST TRIPLE POINTS",
+            "promoId": "30758",
+            "header": "Loyalty Offer Multiplier",
+            "legalDisclaimer": "Loyallists receive Triple Points on select items excluded from the Friends & Family discount and Power Point offers. Offer valid on items labeled \"LOYALLIST TRIPLE POINTS.\" All other items are excluded from the offer. Offer valid online and in store December 4-15, 2021. Certain designer, brand and leased department exclusions apply. Points are not earned in Nespresso shops, at restaurants in Bloomingdale's, on store services, sales tax, select Bloomingdale's charitable program fees, purchases of third party products sold in billing inserts, and purchases shipped outside the U.S. or its territories, or when redeeming Bloomingdale's Gift Cards and Rewards. On January 1 of each year, 85% of unused points will be forfeited. If multiple point offers are available based on your purchase, you will only receive points for the best offer. Offer valid in U.S. stores only. Offer not valid in Bloomingdale's Outlets. See bloomingdales.com/loyallist/termsandconditions for complete program details.",
+            "applicableToAllUpcs": true,
+            "offer": "Loyalty Offer Multiplier",
+            "offerName": "GET TRIPLE POINTS ON THIS ITEM",
+            "colorClassName": "loyaltyBadge",
+            "promotionType": "Loyalty Offer Multiplier",
+            "eligibleTier": "ALL",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "4006315",
+            "productName": "Juliska Stewart Tartan Oven Mitt & Pot Holder Set",
+            "productOriginalPrice": "35.0",
+            "productPrice": "35.0",
+            "productPricingState": "",
+            "productRating": "",
+            "productReviews": "",
+            "productType": "member"
+          }
+        }
+      }
+    }
+  },
+  {
+    "product": {
+      "id": 1740220,
+      "identifier": {
+        "productUrl": "/shop/product/global-2-piece-carving-set?ID=1740220&CategoryID=3865",
+        "productId": 1740220
+      },
+      "detail": {
+        "name": "2-Piece Carving Set",
+        "brand": "Global",
+        "brandURL": "/buy/global",
+        "description": "Offering an ergonomic design and slip-resistant grip, this set makes a great presentation when carving at the table.",
+        "flags": {
+          "hasWarranty": true,
+          "registrable": true,
+          "intlSuppressProduct": true,
+          "PDPColorized": true
+        },
+        "reviewStatistics": {},
+        "bulletText": [
+          "Knife: 13.25&quot;L x 1.75&quot;W; fork: 12.25&quot;L x 1.25&quot;W",
+          "Manufacturer's lifetime limited warranty",
+          "Stainless steel",
+          "Hand wash",
+          "Imported"
+        ],
+        "maxQuantity": 6,
+        "typeName": "CUTLERY",
+        "carouselType": "Collection"
+      },
+      "relationships": {
+        "taxonomy": {
+          "defaultCategoryId": 3865
+        },
+        "upcs": [
+          {
+            "id": 4943691313294,
+            "identifier": {
+              "upcId": "2982585"
+            },
+            "relationships": {
+              "taxonomy": {
+                "defaultCategoryId": 3865
+              }
+            },
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "4/optimized/9148654_fpx.tif",
+                  "name": "9148654.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "4/optimized/9148654_fpx.tif",
+                "name": "9148654.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "availability": {
+              "active": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "shipDays": 3,
+              "message": "In Stock: Usually leaves our facility within 3 business days.",
+              "orderType": "STR1"
+            },
+            "traits": {
+              "colors": {
+                "selectedColor": {
+                  "id": 961186,
+                  "name": "Stainless Steel",
+                  "normalName": "Silver",
+                  "imagery": {
+                    "additionalImageSource": [
+                      {
+                        "filePath": "4/optimized/9148654_fpx.tif",
+                        "name": "9148654.fpx"
+                      }
+                    ],
+                    "primaryImage": {
+                      "filePath": "4/optimized/9148654_fpx.tif",
+                      "name": "9148654.fpx"
+                    },
+                    "urlTemplate": "./images/[IMAGEFILEPATH]"
+                  }
+                },
+                "urlTemplate": {
+                  "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+                  "product": "./images/[IMAGEFILEPATH]"
+                }
+              },
+              "types": {},
+              "sizes": {}
+            },
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "applicableToAllUpcs": true
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 225,
+                        "formattedValue": "$225.00",
+                        "type": "regular"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 0
+              }
+            }
+          }
+        ]
+      },
+      "imagery": {
+        "additionalImageSource": [
+          {
+            "filePath": "4/optimized/9148654_fpx.tif",
+            "name": "9148654.fpx"
+          }
+        ],
+        "primaryImage": {
+          "filePath": "4/optimized/9148654_fpx.tif",
+          "name": "9148654.fpx"
+        },
+        "urlTemplate": "./images/[IMAGEFILEPATH]"
+      },
+      "availability": {
+        "active": true,
+        "available": true
+      },
+      "traits": {
+        "colors": {
+          "selectedColor": {
+            "id": 961186,
+            "name": "Stainless Steel",
+            "normalName": "Silver",
+            "imagery": {
+              "additionalImageSource": [
+                {
+                  "filePath": "4/optimized/9148654_fpx.tif",
+                  "name": "9148654.fpx"
+                }
+              ],
+              "primaryImage": {
+                "filePath": "4/optimized/9148654_fpx.tif",
+                "name": "9148654.fpx"
+              },
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            }
+          },
+          "urlTemplate": {
+            "swatch": "https://images.bloomingdalesassets.com/is/image/BLM/swatches/",
+            "product": "./images/[IMAGEFILEPATH]"
+          }
+        },
+        "types": {},
+        "sizes": {}
+      },
+      "pricing": {
+        "price": {
+          "priceType": {
+            "applicableToAllUpcs": true
+          },
+          "tieredPrice": [
+            {
+              "label": "[PRICE]",
+              "values": [
+                {
+                  "value": 225,
+                  "formattedValue": "$225.00",
+                  "type": "regular"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 0
+        },
+        "badges": [
+          {
+            "walletEligible": true,
+            "checkoutDescription": "Get 25% off a Voluspa 5-piece candle set with any Home purchase!",
+            "promoId": "30499",
+            "header": "SPECIAL_OFFER",
+            "legalDisclaimer": "Get 25% off a Voluspa 5-piece candle set with any Home purchase during holiday! Offer valid through 12/24/21, while supplies last. Limit one per customer. If the gift is sold out, the value of the gift cannot be redeemed for cash or credit. Discount automatically applied in cart on qualified items. No adjustments to prior purchases. All employees of Bloomingdale's and its affiliates are excluded. ",
+            "applicableToAllUpcs": true,
+            "offer": "SPECIAL_OFFER",
+            "image": {
+              "filePath": "2/optimized/9843892_fpx.tif",
+              "urlTemplate": "./images/[IMAGEFILEPATH]"
+            },
+            "colorClassName": "offerDesc",
+            "promotionType": "PWP",
+            "hasMorePromotionDetails": true
+          }
+        ]
+      },
+      "meta": {
+        "analytics": {
+          "data": {
+            "isBigTicket": "false",
+            "productID": "1740220",
+            "productName": "Global 2-Piece Carving Set",
+            "productOriginalPrice": "225.0",
+            "productPrice": "225.0",
+            "productPricingState": "",
+            "productRating": "",
+            "productReviews": "",
+            "productType": "single item"
+          }
+        }
+      }
+    }
+  }
+]
