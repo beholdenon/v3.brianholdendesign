@@ -1,0 +1,53 @@
+{
+   "description":null,
+   "poster_sources":[
+      {
+         "src":"images/75934411001_6082945470001_6082947919001-vs.jpg"
+      }
+   ],
+   "tags":[
+
+   ],
+   "cue_points":[
+
+   ],
+   "custom_fields":{
+
+   },
+   "account_id":"75934411001",
+   "sources":[
+      {
+         "avg_bitrate":514000,
+         "width":480,
+         "src":"videos/75934411001_6082948058001_6082947919001.mp4",
+         "size":3820381,
+         "height":270,
+         "duration":59135,
+         "container":"MP4",
+         "codec":"H264",
+         "asset_id":"6082948164001"
+      }
+   ],
+   "name":"BLM_GLOWHAUS_FALL19_4_ComingInRedHot_v5",
+   "reference_id":null,
+   "long_description":null,
+   "duration":59135,
+   "economics":"AD_SUPPORTED",
+   "published_at":"2019-09-03T14:37:05.023Z",
+   "text_tracks":[
+
+   ],
+   "updated_at":"2019-09-03T14:38:19.619Z",
+   "thumbnail":"https://f1.media.brightcove.com/7/75934411001/75934411001_6082948042001_6082947919001-th.jpg?pubId=75934411001&videoId=6082947919001",
+   "poster":"images/75934411001_6082945470001_6082947919001-vs.jpg",
+   "offline_enabled":false,
+   "link":null,
+   "id":"6082947919001",
+   "ad_keys":null,
+   "thumbnail_sources":[
+      {
+         "src":"https://f1.media.brightcove.com/7/75934411001/75934411001_6082948042001_6082947919001-th.jpg?pubId=75934411001&videoId=6082947919001"
+      }
+   ],
+   "created_at":"2019-09-03T14:37:05.008Z"
+}

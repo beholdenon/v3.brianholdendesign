@@ -1,0 +1,53 @@
+{
+   "description":null,
+   "poster_sources":[
+      {
+         "src":"images/75934411001_6082947881001_6082947916001-vs.jpg"
+      }
+   ],
+   "tags":[
+
+   ],
+   "cue_points":[
+
+   ],
+   "custom_fields":{
+
+   },
+   "account_id":"75934411001",
+   "sources":[
+      {
+         "avg_bitrate":520000,
+         "width":480,
+         "src":"videos/75934411001_6082947658001_6082947916001.mp4",
+         "size":3004672,
+         "height":270,
+         "duration":46122,
+         "container":"MP4",
+         "codec":"H264",
+         "asset_id":"6082948320001"
+      }
+   ],
+   "name":"BLM_GLOWHAUS_FALL19_1_JustDewIt_v4",
+   "reference_id":null,
+   "long_description":null,
+   "duration":46122,
+   "economics":"AD_SUPPORTED",
+   "published_at":"2019-09-03T14:37:04.826Z",
+   "text_tracks":[
+
+   ],
+   "updated_at":"2019-09-03T14:38:02.444Z",
+   "thumbnail":"https://f1.media.brightcove.com/7/75934411001/75934411001_6082948139001_6082947916001-th.jpg?pubId=75934411001&videoId=6082947916001",
+   "poster":"images/75934411001_6082947881001_6082947916001-vs.jpg",
+   "offline_enabled":false,
+   "link":null,
+   "id":"6082947916001",
+   "ad_keys":null,
+   "thumbnail_sources":[
+      {
+         "src":"https://f1.media.brightcove.com/7/75934411001/75934411001_6082948139001_6082947916001-th.jpg?pubId=75934411001&videoId=6082947916001"
+      }
+   ],
+   "created_at":"2019-09-03T14:37:04.815Z"
+}
