@@ -185,3 +185,25 @@ body {
 .overlay-header {
   margin-bottom: 60px;
 }
+
+.overlay-roles {
+  //border-top: 1px solid rgba(255, 255, 255, .3);
+  //border-bottom: 1px solid rgba(255, 255, 255, .3);
+
+  ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+
+    li {
+      @include eyebrow();
+      list-style: none;
+      color: #fff;
+      margin: 0 5px;
+      margin-top: 0;
+      border: 1px solid rgba(255, 255, 255, .3);
+      padding: 3px 15px;
+    }
+  }
+}

@@ -12,6 +12,13 @@
   font-weight: $weight;
 }
 
+@mixin eyebrow() {
+  @include avenir(500);
+  font-size: 0.6em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 $primary-color: #8a8a8a;
 $accent-color: #cc4040;
 $third-color: #211d26;

@@ -90,10 +90,8 @@
   }
 
   h4 {
-    font-size: 0.6em;
+    @include eyebrow();
     margin-bottom: 3px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
     transform: scale(1);
     transition: 0.3s ease-in-out;
   }
